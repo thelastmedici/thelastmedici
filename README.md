@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Christian Joshua
-- 👀 I’m interested in  software development
+- 👀 I’m interested in web development and software development 
 - 🌱 I’m currently learning Software development @ Alx
 - 💞️ I’m looking to collaborate on projects and startups
 - 📫 How to reach me ...
