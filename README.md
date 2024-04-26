@@ -1,7 +1,3 @@
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31k5j2od4z6w47lsl7sjtifgulxa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=31k5j2od4z6w47lsl7sjtifgulxa&redirect=true)
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31k5j2od4z6w47lsl7sjtifgulxa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=31k5j2od4z6w47lsl7sjtifgulxa&redirect=true)
-
 - 👋 Hi, I’m Christian Joshua
 - 👀 I’m interested in web development and software development 
 - 🌱 I’m currently learning Software development @ Alx
