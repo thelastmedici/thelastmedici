@@ -1,7 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Christian Joshua</h1>
 <h3 align="center">A Software Engineering enthusiast</h3>
-<img align="center" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA5WMZqZAw2rVwIYcUkZMFFnaxvmY5UN99ag&s" alt = "coding" width="1000" >
+
+<a href="/gif/code-fi-lofi-beats-to-coderelax-to-FvBVst" title="code-fi / lofi beats to code/relax to"><img src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" alt="code-fi / lofi beats to code/relax to" width="100%"></a><div style="font-size:11px;">make <a href="/" title="make a gif">action GIFs</a> like this at MakeaGif</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thelastmedici&label=Profile%20views&color=0e75b6&style=flat" alt="thelastmedici" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thelastmedici" alt="thelastmedici" /></a> </p>
