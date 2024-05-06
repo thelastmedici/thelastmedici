@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Christian Joshua</h1>
 <h3 align="center">A Software Engineering enthusiast</h3>
-<img align="center" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA5WMZqZAw2rVwIYcUkZMFFnaxvmY5UN99ag&s" alt = "coding" width="800" >
+<img align="center" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA5WMZqZAw2rVwIYcUkZMFFnaxvmY5UN99ag&s" alt = "coding" width="1000" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thelastmedici&label=Profile%20views&color=0e75b6&style=flat" alt="thelastmedici" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thelastmedici" alt="thelastmedici" /></a> </p>
