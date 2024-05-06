@@ -1,6 +1,7 @@
+
 <h1 align="center">Hi 👋, I'm Christian Joshua</h1>
 <h3 align="center">A Software Engineering enthusiast</h3>
-<iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">Aminated image</a></p>
+<img src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">Aminated image</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thelastmedici&label=Profile%20views&color=0e75b6&style=flat" alt="thelastmedici" /> </p>
 
