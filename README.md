@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Christian Joshua</h1>
-<h3 align="center">A Software Engineering enthusiast</h3>
+<h3 align="center">I am a Software Engineering enthusiast</h3>
 
 <a href="/gif/code-fi-lofi-beats-to-coderelax-to-FvBVst" title="code-fi / lofi beats to code/relax to"><img src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" alt="code-fi / lofi beats to code/relax to" width="100%"></a><div style="font-size:11px;"><a href="/" title="make a gif"></div>
 
