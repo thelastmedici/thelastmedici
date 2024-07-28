@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **christianopeyemijoshua@gmail.com**
 
-- ⚡ Fun fact **I think i can solve real world problems with code**
+- ⚡ Fun fact **I can solve Real World Problems with code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
