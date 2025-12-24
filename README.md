@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Full Stack web development**
 
-- 💬 Ask me about **web development, software Engineering, Machine learning**
+- 💬 Ask me about **software Engineering, Machine learning**
 
 - 📫 How to reach me **christianopeyemijoshua@gmail.com**
 
