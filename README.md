@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/unbothered_devv" target="blank"><img src="https://img.shields.io/twitter/follow/unbothered_devv?logo=twitter&style=for-the-badge" alt="unbothered_devv" /></a> </p>
 
-- 🌱 I’m currently  ** A c# backend dev with python for intelligent systems**
+- 🌱 I’m currently  **A c# backend dev with python for intelligent systems**
 
 - 💬 Ask me about **software Engineering, Machine learning**
 
